@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SuspiciousCEO
-- 👀 I’m interested in arduino,ESP32,m5stack
+- 👀 I’m interested in arduino,ESP32,m5stack,IoT,TamiyaToyCraft
 - 🌱 I’m currently learning 3Dprinter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
